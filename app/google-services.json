@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "927457026613",
+    "firebase_url": "https://elegance-38b3e.firebaseio.com",
+    "project_id": "elegance-38b3e",
+    "storage_bucket": "elegance-38b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927457026613:android:485e150a71f079cf",
+        "android_client_info": {
+          "package_name": "com.jenish9599.android.eleganceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927457026613-2qinaks8j76du6l08av4kp10u409fgv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJha8rVDaF_K4Bp5tr1I5BhdrhVZKmmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

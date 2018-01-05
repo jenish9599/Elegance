@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/orderDress"
+            android:icon="@drawable/shoping_cart"
+            android:title="Order A dress" />
+        <item
+            android:id="@+id/fasionblogs"
+            android:icon="@drawable/blogs"
+            android:title="Fashion Blogs" />
+        <item
+            android:id="@+id/ref_erand_earn"
+            android:icon="@drawable/refer_and_earn"
+            android:title="Refer and Earn" />
+
+        <item
+            android:id="@+id/my_profile"
+            android:icon="@drawable/user"
+            android:title="My profile" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
